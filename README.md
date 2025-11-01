@@ -36,7 +36,8 @@ Users can **create** and **practice** quizzes by category such as *Angular*, *DS
 
  1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/quiz-app.git
+git clone https://github.com/89238-Swapnil/Angular-projects-Bajaj-.git
+
 cd quiz-app
 
 cd backend
