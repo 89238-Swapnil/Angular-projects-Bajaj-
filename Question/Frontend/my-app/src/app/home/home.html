@@ -1,9 +1,0 @@
-<h2>Welcome to the Quiz App</h2>
-<div *ngIf="!isLoggedIn()">
-  <button routerLink="/login">Login</button>
-  <button routerLink="/signup">Signup</button>
-</div>
-<div *ngIf="isLoggedIn()">
-  <button routerLink="/quiz">Go to Quiz</button>
-  <button (click)="logout()">Logout</button>
-</div>
